@@ -1,0 +1,31 @@
+name: Publicar tienda
+on:
+  push:
+    branches: [main]
+    paths: ['public/**', 'firebase.json', '.github/workflows/firebase-hosting-merge.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: firebase-tienda
+  cancel-in-progress: false
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Comprobar vinculación con Firebase
+        env:
+          FIREBASE_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_ISA_CREATIONS_RD_13DFB }}
+        run: |
+          if [ -z "$FIREBASE_KEY" ]; then
+            echo "::error::Falta vincular Firebase. Ejecuta firebase init hosting:github en este repositorio."
+            exit 1
+          fi
+      - uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_ISA_CREATIONS_RD_13DFB }}
+          projectId: isa-creations-rd-13dfb
+          channelId: live
+          firebaseToolsVersion: 15.32.0
