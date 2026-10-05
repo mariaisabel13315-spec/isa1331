@@ -883,6 +883,143 @@
       "includes": "",
       "tones": "",
       "availableColorIds": null
+    },
+    {
+      "id": "limon-miniatura-3d",
+      "name": "Limón en miniatura 3D",
+      "description": "Pequeño limón decorativo con cuerpo amarillo y tallito verde. Ideal para completar decoraciones de tapas de vasos, recuerdos y proyectos creativos. Tamaño, cantidad y montaje se coordinan al pedir. Pieza decorativa, no comestible.",
+      "images": [
+        "/catalogo/limon-miniatura-clean.png"
+      ],
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "tones": "",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "margaritas-miniatura-3d",
+      "name": "Margaritas decorativas en miniatura",
+      "description": "Flores tipo margarita con pétalos en relieve para decorar tapas de vasos, recuerdos y otras creaciones. La foto muestra ejemplos de tamaños y colores; cantidad, medidas y acabado se confirman al pedir.",
+      "images": [
+        "/catalogo/margaritas-miniatura-clean.png"
+      ],
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "tones": "",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "corazones-miniatura-3d",
+      "name": "Mini corazones decorativos 3D",
+      "description": "Corazones pequeños con relieve, ideales para decorar tapas de vasos, recuerdos y proyectos personalizados. La foto muestra ejemplos de las piezas; el tamaño, color y cantidad se coordinan según tu pedido.",
+      "images": [
+        "/catalogo/corazones-miniatura-clean.png"
+      ],
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "tones": "",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "peonia-tapa-sorbete",
+      "name": "Tapita para sorbete con flor de peonía",
+      "description": "Flor de peonía con pétalos en capas, tapita y tira de sujeción con aro. Diseño de referencia para sorbetes de 8.5 mm; confirma el diámetro antes de pedir. Color y ajuste se coordinan. La versión de llavero que aparece en la foto se vende por separado.",
+      "images": [
+        "/catalogo/peonia-sorbete-llavero-clean.png"
+      ],
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "tones": "",
+      "includes": "Una tapita con tira de sujeción. No incluye vaso, sorbete ni llavero.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "llavero-peonia-3d",
+      "name": "Llavero de flor de peonía 3D",
+      "description": "Flor de peonía con pétalos detallados, cadenita y aro para llevar en tus llaves o como accesorio decorativo. Colores y tamaño se coordinan al pedir. La tapita para sorbete que aparece en la foto se vende por separado.",
+      "images": [
+        "/catalogo/peonia-sorbete-llavero-clean.png"
+      ],
+      "price": null,
+      "category": "llaveros3d",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "tones": "",
+      "includes": "Un llavero de peonía. No incluye tapita para sorbete.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "tapita-fantasma-sorbete",
+      "name": "Tapita de fantasma para sorbete",
+      "description": "Fantasmita blanco con carita sonriente, tira de sujeción y aro. Diseño de referencia para sorbetes de 10 mm; confirma el diámetro antes de pedir para coordinar el ajuste.",
+      "images": [
+        "/catalogo/fantasma-sorbete-clean.png"
+      ],
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "tones": "",
+      "includes": "Una tapita con tira de sujeción. No incluye vaso ni sorbete.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "paleta-espiral-miniatura",
+      "name": "Paleta en espiral en miniatura",
+      "description": "Paletita decorativa con diseño en espiral y palito, para adornar tapas de vasos, recuerdos y otras creaciones. Las fotos muestran referencias en morado y blanco; color, tamaño y cantidad se coordinan al pedir. Pieza decorativa, no comestible.",
+      "images": [
+        "/catalogo/paleta-espiral-morada-clean.png",
+        "/catalogo/paleta-espiral-blanca-clean.png"
+      ],
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "tones": "",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "botella-refresco-miniatura-3d",
+      "name": "Botellita de refresco en miniatura 3D",
+      "description": "Mini botellita decorativa con detalles de tapa y cuerpo, ideal para complementar tapas de vasos y proyectos creativos. Tamaño, color y cantidad se confirman al pedir. Pieza decorativa; no contiene bebida.",
+      "images": [
+        "/catalogo/botella-refresco-miniatura-clean.png"
+      ],
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "tones": "",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
     }
   ]
 }
