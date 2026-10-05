@@ -716,6 +716,25 @@
       "availableColorIds": null
     },
     {
+      "id": "peonia-tapa-sorbete",
+      "name": "Tapita para sorbete con flor de peonía",
+      "description": "Tapita decorativa con flor de peonía y sujeción para sorbete. Las fotos muestran cómo va: la flor cubre el extremo superior del sorbete y el aro se coloca alrededor, unido por una tira o cadenita según el modelo. Diseño de referencia para sorbetes de 8.5 mm; confirma el diámetro antes de pedir. Color y ajuste se coordinan.",
+      "images": [
+        "/catalogo/peonia-sorbete-llavero-clean.png",
+        "/catalogo/peonia-fucsia-en-sorbete.png",
+        "/catalogo/peonia-menta-en-sorbete.png"
+      ],
+      "price": null,
+      "category": "vasos",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "tones": "Fucsia y verde menta con blanco",
+      "includes": "Una tapita con tira de sujeción. No incluye vaso, sorbete ni llavero.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
       "id": "soporte-audifonos-flores",
       "name": "Soporte para audífonos con flores 3D",
       "images": [
@@ -932,25 +951,6 @@
       "colors": "Colores y tamaño se coordinan al hacer el pedido.",
       "tones": "",
       "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
-      "availableColorIds": [],
-      "deleted": false
-    },
-    {
-      "id": "peonia-tapa-sorbete",
-      "name": "Tapita para sorbete con flor de peonía",
-      "description": "Tapita decorativa con flor de peonía y sujeción para sorbete. Las fotos muestran cómo va: la flor cubre el extremo superior del sorbete y el aro se coloca alrededor, unido por una tira o cadenita según el modelo. Diseño de referencia para sorbetes de 8.5 mm; confirma el diámetro antes de pedir. Color y ajuste se coordinan.",
-      "images": [
-        "/catalogo/peonia-fucsia-en-sorbete.png",
-        "/catalogo/peonia-menta-en-sorbete.png",
-        "/catalogo/peonia-sorbete-llavero-clean.png"
-      ],
-      "price": null,
-      "category": "accesorios",
-      "material": "por-confirmar",
-      "unit": "pieza",
-      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
-      "tones": "Fucsia y verde menta con blanco",
-      "includes": "Una tapita con tira de sujeción. No incluye vaso, sorbete ni llavero.",
       "availableColorIds": [],
       "deleted": false
     },
