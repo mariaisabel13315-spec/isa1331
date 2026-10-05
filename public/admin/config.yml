@@ -1,0 +1,126 @@
+backend:
+  name: github
+  repo: mariaisabel13315-spec/isa1331
+  branch: main
+  site_domain: isacreationsrd.netlify.app
+locale: es
+site_url: https://isacreationsrd.netlify.app
+display_url: https://isacreationsrd.netlify.app
+media_folder: public/catalogo/uploads
+public_folder: /catalogo/uploads
+collections:
+- name: tienda
+  label: Mi tienda
+  files:
+  - name: catalogo
+    label: Productos, fotos y precios
+    file: public/catalog.json
+    format: json
+    fields:
+    - label: Productos
+      label_singular: Producto
+      name: products
+      widget: list
+      collapsed: true
+      summary: '{{fields.name}}'
+      fields:
+      - label: Identificador
+        name: id
+        widget: hidden
+        default: ''
+      - label: Nombre del producto
+        name: name
+        widget: string
+      - label: Descripción
+        name: description
+        widget: text
+        required: false
+      - label: Precio en pesos (RD$)
+        name: price
+        widget: number
+        value_type: float
+        min: 0
+        required: false
+        hint: Deja vacío para mostrar Precio por confirmar.
+      - label: Categoría
+        name: category
+        widget: select
+        options:
+        - label: Vasos y tazas
+          value: vasos
+        - label: Libretas
+          value: libretas
+        - label: Llaveros
+          value: llaveros
+        - label: Llaveros y miniaturas 3D
+          value: llaveros3d
+        - label: Accesorios
+          value: accesorios
+        - label: Resina
+          value: resina
+        - label: Poloches
+          value: ropa
+        - label: Hogar
+          value: hogar
+        - label: Navidad
+          value: navidad
+        default: llaveros3d
+      - label: Fotos
+        name: images
+        widget: list
+        required: false
+        hint: La primera es la foto principal. Puedes subir fotos y cambiar su orden.
+        field:
+          label: Foto
+          name: image
+          widget: image
+      - label: Unidad de venta
+        name: unit
+        widget: select
+        options:
+        - pieza
+        - juego
+        default: pieza
+      - label: Colores y personalización
+        name: colors
+        widget: text
+        required: false
+      - label: Qué incluye
+        name: includes
+        widget: text
+        required: false
+      - label: Material
+        name: material
+        widget: select
+        options:
+        - por-confirmar
+        - resina
+        - PLA
+        - PETG
+        - TPU
+        - otro
+        default: por-confirmar
+      - label: Tonos de las fotos
+        name: tones
+        widget: string
+        required: false
+      - label: Precio anterior (opcional)
+        name: originalPrice
+        widget: number
+        value_type: float
+        min: 0
+        required: false
+      - label: Ocultar producto
+        name: deleted
+        widget: boolean
+        default: false
+        required: false
+      - name: individualTotal
+        widget: hidden
+        required: false
+      - name: inquiryLabel
+        widget: hidden
+        required: false
+      - name: availableColorIds
+        widget: hidden
+        required: false

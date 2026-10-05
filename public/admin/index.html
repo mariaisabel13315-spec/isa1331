@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>Administrar tienda · Isa Creaciones RD</title></head><body>
+<script src="https://cdn.jsdelivr.net/npm/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+<script>
+CMS.registerEventListener({name:'preSave',handler:({entry})=>{
+ const data=entry.get('data');const products=data.get('products');const used=new Set();
+ // Reserve existing IDs before naming newly added products.
+ products.forEach(p=>{const id=p.get('id');if(id){if(used.has(id))throw new Error('Hay productos con el mismo identificador.');used.add(id)}});
+ const updated=products.map(p=>{
+  let id=p.get('id');if(!id){const stem=(p.get('name')||'producto').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')||'producto';id=stem;let n=2;while(used.has(id))id=stem+'-'+n++;used.add(id)}
+  p=p.set('id',id);for(const key of ['price','originalPrice']){const value=p.get(key);if(value===''||value===undefined)p=p.set(key,null)}return p;
+ });return data.set('products',updated);
+}});
+CMS.registerPreviewStyle('body{font-family:system-ui;background:#fff8fa;color:#49333e;padding:20px}.catalog-preview{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:18px}.preview-card{background:white;border:1px solid #efdce5;border-radius:14px;padding:16px}.preview-card img{width:100%;height:190px;object-fit:contain}.preview-card h3{font-size:18px}',{raw:true});
+CMS.registerPreviewTemplate('catalogo',createClass({render:function(){
+ const products=this.props.entry.getIn(['data','products']);if(!products)return h('p',{},'Añade tu primer producto.');
+ return h('div',{},h('h1',{},'Isa Creaciones RD'),h('p',{},'Pulsa Publicar para guardar. Netlify actualizará la tienda después.'),h('div',{className:'catalog-preview'},products.filter(p=>!p.get('deleted')).map((p,i)=>{
+ const image=p.getIn(['images',0]);const price=p.get('price');
+ return h('article',{key:i,className:'preview-card'},image?h('img',{src:this.props.getAsset(image).toString(),alt:p.get('name')}):null,h('h3',{},p.get('name')),h('p',{},p.get('description')),h('strong',{},price===null||price===undefined||price===''?'Precio por confirmar':'RD$'+Number(price).toLocaleString('es-DO')));
+ }).toArray()));
+}}));
+</script></body></html>

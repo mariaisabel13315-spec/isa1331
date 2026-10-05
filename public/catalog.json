@@ -1,0 +1,888 @@
+{
+  "products": [
+    {
+      "id": "posavasos",
+      "name": "Juego de posavasos con soporte",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/posavasos-1.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/posavasos-2.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/posavasos-3.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/posavasos-4.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/posavasos-5.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Posavasos redondos con soporte organizador.",
+      "tones": "Rosado claro",
+      "price": null,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "portavelas-ondas",
+      "name": "Portavelas de ondas",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/portavelas-ondas-1.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Diseño de ondas en diferentes alturas.",
+      "tones": "Rosado",
+      "price": null,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "corazones",
+      "name": "Floreros corazón",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/corazones-1.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Diseños de corazón con espacio para un tubo floral.",
+      "tones": "Blanco",
+      "price": null,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "portavelas-espiral",
+      "name": "Portavelas espiral",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/portavelas-espiral-1.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Diseño escultórico con curvas y textura.",
+      "tones": "Blanco, negro y beige",
+      "price": null,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "floreros",
+      "name": "Floreros acanalados",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/floreros-1.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Floreros de líneas verticales en diferentes tamaños.",
+      "tones": "Crema y marrón",
+      "price": 800,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "home-tapa",
+      "name": "Conjunto HOME con recipiente",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/home-tapa-1.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Conjunto decorativo con bandeja, florero, recipiente con tapa y portavelas.",
+      "tones": "Crema",
+      "price": null,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "home-arcos",
+      "name": "Conjunto HOME con arcos",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/home-arcos-1.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Conjunto decorativo con bandeja, arcos, florero y portavelas.",
+      "tones": "Crema",
+      "price": 2500,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "deleted": false,
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": []
+    },
+    {
+      "id": "bandeja-ovalada",
+      "name": "Conjunto con bandeja ovalada",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/bandeja-ovalada-1.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Bandeja ovalada con florero, detalle de corazón y portavelas.",
+      "tones": "Crema",
+      "price": null,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "maceteros",
+      "name": "Maceteros de burbujas",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/maceteros-1.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Maceteros con textura de burbujas y base.",
+      "tones": "Terracota, blanco y verde",
+      "price": 1400,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "caja",
+      "name": "Caja organizadora con tapa",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/caja-1.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Caja rectangular acanalada para organizar pequeños objetos.",
+      "tones": "Crema",
+      "price": null,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "estante-flores",
+      "name": "Estante con flores",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/estante-flores-1.jpg"
+      ],
+      "description": "Estante decorativo de pared con cuatro ganchos y flores.",
+      "tones": "Marrón y rosado",
+      "price": 1500,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "deleted": false,
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": []
+    },
+    {
+      "id": "estante-arcos",
+      "name": "Organizador de llaves con arcos",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/estante-arcos-1.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Repisa con ganchos y diseño de arcos para organizar tus detalles.",
+      "tones": "Crema",
+      "price": 1700,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "estante-florero",
+      "name": "Organizador de llaves con florero",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/estante-florero-1.jpg"
+      ],
+      "description": "Repisa con ganchos y espacio decorativo para flores.",
+      "tones": "Beige",
+      "price": 1000,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "deleted": false,
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": []
+    },
+    {
+      "id": "bandejas-burbujas",
+      "name": "Bandejitas de burbujas",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/bandejas-burbujas-1.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Bandejitas redondas para joyas y pequeños detalles.",
+      "tones": "Beige, rosado, azul y gris",
+      "price": null,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "navidad",
+      "name": "Adornos navideños con nombre",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/navidad-1.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Círculos navideños de 3.85 pulgadas, personalizados con el nombre que elijas. Para tamaños más grandes, solicita una personalización; el precio se cotiza según el tamaño.",
+      "tones": "Crema, marrón, verde y rojo",
+      "price": 150,
+      "category": "navidad",
+      "material": "por-confirmar",
+      "originalPrice": 300,
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "llavero-rojo-negro",
+      "name": "Llavero de inicial personalizado en resina",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-rojo-negro-1-clean.png?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-rojo-negro-2-clean.png?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-azul-1-clean.png?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-marino-1-clean.png?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-marino-2-clean.png?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-marino-3-clean.png?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-flores-1-clean.png?v=catalog-nuevos-23"
+      ],
+      "description": "Elige tu inicial, nombre, colores y diseño. Las fotos muestran estilos con flores, glitter o detalles marinos; dijes y acabados se coordinan contigo.",
+      "tones": "Rojo y negro",
+      "price": 500,
+      "category": "llaveros",
+      "material": "resina",
+      "colors": "Colores y diseño personalizados. Se coordinan contigo al hacer el pedido.",
+      "unit": "pieza",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "llavero-eventos",
+      "name": "Llaveros para eventos",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-eventos-1-clean.png?v=catalog-nuevos-23"
+      ],
+      "description": "Recuerdos personalizados con nombres, fechas o iniciales para bodas, cumpleaños y otras ocasiones. Precio por un llavero. Diseños especiales con más decoración o materiales pueden variar.",
+      "tones": "Varios tonos según diseño",
+      "price": 350,
+      "category": "llaveros",
+      "material": "resina",
+      "colors": "Colores y diseño personalizados. Se coordinan contigo al hacer el pedido.",
+      "unit": "pieza",
+      "includes": "Un llavero personalizado. Los varios diseños de la foto son opciones de referencia; precio por pieza.",
+      "availableColorIds": []
+    },
+    {
+      "id": "llavero-qr",
+      "name": "Llavero personalizado con QR",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-qr-1-clean.png?v=catalog-nuevos-23"
+      ],
+      "description": "Lleva el enlace de tus redes o negocio en un llavero personalizado. Se verifica el código QR antes de elaborar. Precio por un llavero. Diseños especiales con más decoración o materiales pueden variar.",
+      "tones": "Turquesa, blanco y dorado",
+      "price": 350,
+      "category": "llaveros",
+      "material": "resina",
+      "colors": "Colores y diseño personalizados. Se coordinan contigo al hacer el pedido.",
+      "unit": "pieza",
+      "includes": "",
+      "availableColorIds": []
+    },
+    {
+      "id": "libreta-negra",
+      "name": "Set de libreta personalizado en resina",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/libreta-negra-clean.png?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/libreta-azul-clean.png?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/libreta-rosada-clean.png?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/libreta-roja-clean.png?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/libreta-crema-clean.png?v=catalog-nuevos-23"
+      ],
+      "description": "Set completo personalizado en resina. Por separado: libreta RD$1,500; lapicero RD$500; llavero RD$500; separador RD$500. Para diseños especiales con más decoración o materiales, el precio puede variar.",
+      "tones": "Negro, blanco y dorado",
+      "price": 2500,
+      "category": "libretas",
+      "material": "resina",
+      "unit": "juego",
+      "includes": "Libreta + lapicero + llavero + separador, personalizados en el color y diseño elegido.",
+      "colors": "Colores y diseño personalizados. Se coordinan contigo al hacer el pedido.",
+      "originalPrice": 3000,
+      "individualTotal": 2950,
+      "availableColorIds": null
+    },
+    {
+      "id": "libreta-exclusiva",
+      "name": "Set de libreta de diseño exclusivo en resina",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/libreta-exclusiva-clean.png?v=catalog-nuevos-23"
+      ],
+      "description": "El precio incluye las tres piezas de la foto: libreta RD$1,500 + lapicero RD$500 + separador RD$500 = RD$2,500. Personalizados en el color y diseño elegido. Para diseños especiales con más decoración o materiales, el precio puede variar.",
+      "tones": "Blanco y dorado",
+      "price": 2500,
+      "category": "libretas",
+      "material": "resina",
+      "unit": "juego",
+      "includes": "Libreta + lapicero + separador de hojas.",
+      "colors": "Colores y diseño personalizados. Se coordinan contigo al hacer el pedido.",
+      "availableColorIds": null
+    },
+    {
+      "id": "vaso-bombon",
+      "name": "Vaso de doble pared con glitter y tapa decorada",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/vaso-bombon-clean.png?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/vaso-bellota-original.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/vaso-burbuja-clean.png?v=catalog-nuevos-23"
+      ],
+      "description": "Vaso de doble pared estilo snow globe, con glitter, tapa decorada y sorbete. Las fotos muestran ejemplos del mismo modelo; elige tu nombre, colores y diseño. Tamaño y extras por confirmar.",
+      "tones": "Rosado y rojo",
+      "price": null,
+      "category": "vasos",
+      "material": "otro",
+      "unit": "pieza",
+      "includes": "Vaso, tapa decorada y sorbete.",
+      "colors": "Colores y diseño personalizados. Se coordinan contigo al hacer el pedido.",
+      "availableColorIds": null
+    },
+    {
+      "id": "colador-fregadero",
+      "name": "Colador organizador para fregadero",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/colador-fregadero.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Diseño rectangular para separar restos y dejar escurrir el agua en el fregadero. Medidas y material por confirmar.",
+      "tones": "Blanco y gris",
+      "price": null,
+      "category": "hogar",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "vaso",
+      "name": "Vaso térmico sublimado · 20 oz",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/vasos-portada-completa.jpg",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/vaso-rosado-personalizado.jpg",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/products.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/vaso-sublimado-azul.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/vaso-peluqueria.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/vaso-venom.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Vaso térmico de 20 oz personalizado por sublimación con nombre y diseño. Precio base sin pedrería ni otros extras; los adicionales se cotizan aparte.",
+      "category": "vasos",
+      "includes": "Vaso, tapa y sorbete.",
+      "unit": "pieza",
+      "price": 1000,
+      "material": "otro",
+      "tones": "Colores y diseño personalizados",
+      "colors": "Colores y diseño personalizados. Se coordinan contigo al hacer el pedido.",
+      "originalPrice": 1350,
+      "availableColorIds": null
+    },
+    {
+      "id": "termo-taza",
+      "name": "Combo de termo 20 oz + taza",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/combo-termotaza-clean.png?v=catalog-nuevos-23"
+      ],
+      "description": "Combo de termo de 20 oz y taza con diseños a juego. Oferta: RD$1,350; precio regular del combo RD$1,750. Ahorras RD$400. Personaliza el nombre, los colores y el tema. Presentación de regalo por confirmar.",
+      "category": "vasos",
+      "includes": "Termo de 20 oz + taza personalizados.",
+      "unit": "juego",
+      "price": 1350,
+      "material": "otro",
+      "tones": "Colores y diseño personalizados",
+      "colors": "Colores y diseño personalizados. Se coordinan contigo al hacer el pedido.",
+      "originalPrice": 1750,
+      "availableColorIds": null
+    },
+    {
+      "id": "tazas",
+      "name": "Tazas personalizadas por sublimación",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/taza-cafe.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/tazas-animales.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/taza-manicura.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Una taza con el nombre, frase, foto o diseño que prefieras. Las imágenes muestran ejemplos de personalización; las tazas se ofrecen por pieza.",
+      "category": "vasos",
+      "includes": "Una taza personalizada.",
+      "unit": "pieza",
+      "price": 350,
+      "material": "otro",
+      "tones": "Colores y diseño personalizados",
+      "colors": "Colores y diseño personalizados. Se coordinan contigo al hacer el pedido.",
+      "availableColorIds": null
+    },
+    {
+      "id": "poloches",
+      "name": "Poloches y camisetas personalizados",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/poloche-cumpleanos.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/poloches-navidad.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/poloches-personajes.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/poloches-colores.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Personalización para cumpleaños, familia, Navidad y otras ocasiones. Nombres, diseños y tallas a tu gusto. Sublimación en prendas claras; confirma las opciones de tela y técnica para cada color.",
+      "category": "ropa",
+      "includes": "Un poloche o camiseta personalizado.",
+      "unit": "pieza",
+      "price": null,
+      "material": "otro",
+      "tones": "Colores y diseño personalizados",
+      "colors": "Colores y diseño personalizados. Se coordinan contigo al hacer el pedido.",
+      "availableColorIds": null
+    },
+    {
+      "id": "set-accesorios-resina",
+      "name": "Set de accesorios en resina",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/set-accesorios-dorado.jpg?v=catalog-nuevos-23"
+      ],
+      "description": "Combo de lapicero + llavero + separador de hojas por RD$1,450. Por separado: lapicero RD$500 + llavero RD$500 + separador RD$500 = RD$1,500. Color y diseño personalizados. Diseños especiales con más decoración o materiales pueden variar.",
+      "category": "resina",
+      "includes": "Lapicero + llavero + separador de hojas.",
+      "unit": "juego",
+      "price": 1450,
+      "material": "resina",
+      "tones": "Colores y diseño personalizados",
+      "colors": "Colores y diseño personalizados. Se coordinan contigo al hacer el pedido.",
+      "originalPrice": 1500,
+      "individualTotal": true,
+      "availableColorIds": null
+    },
+    {
+      "id": "set-lapicero-llavero",
+      "name": "Set de lapicero y llavero",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/set-lapicero-rosado-clean.png?v=catalog-nuevos-23"
+      ],
+      "description": "Combo de lapicero + llavero personalizados por RD$950. Por separado: lapicero RD$500 + llavero RD$500 = RD$1,000. Color y diseño a elegir. Diseños especiales con más decoración o materiales pueden variar.",
+      "category": "resina",
+      "includes": "Lapicero + llavero personalizados.",
+      "unit": "juego",
+      "price": 950,
+      "material": "resina",
+      "tones": "Colores y diseño personalizados",
+      "colors": "Colores y diseño personalizados. Se coordinan contigo al hacer el pedido.",
+      "originalPrice": 1000,
+      "individualTotal": true,
+      "availableColorIds": null
+    },
+    {
+      "id": "llavero-gatito-3d",
+      "name": "Llavero articulado de gatito 3D",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-gatito-3d-1.jpeg?v=catalog-nuevos-23"
+      ],
+      "description": "Gatito articulado para llevar en tus llaves. Personaliza la combinación de colores; las fotos muestran ejemplos del modelo.",
+      "includes": "Un gatito articulado con argolla para llavero.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": null,
+      "material": "por-confirmar",
+      "tones": "Material y colores por confirmar",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "llavero-nombre-3d",
+      "name": "Llavero 3D con nombre",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-nombre-3d-1.jpeg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-nombre-3d-2.jpeg?v=catalog-nuevos-23"
+      ],
+      "description": "Tu nombre en relieve, con distintos estilos de letras. Elige el nombre y coordinamos contigo el diseño, tamaño y colores.",
+      "includes": "Un llavero personalizado con nombre.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": 250,
+      "material": "por-confirmar",
+      "tones": "Material y colores por confirmar",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "letra-luminosa-3d",
+      "name": "Letra luminosa personalizada 3D",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/letra-luminosa-3d-1.jpeg?v=catalog-nuevos-23"
+      ],
+      "description": "Letra decorativa con iluminación, nombre y detalles personalizados. Coordinamos contigo el tamaño, los adornos y las opciones de iluminación.",
+      "includes": "Letra personalizada; iluminación y accesorios según el diseño confirmado.",
+      "category": "hogar",
+      "unit": "pieza",
+      "price": null,
+      "material": "por-confirmar",
+      "tones": "Material y colores por confirmar",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "letra-figuras-3d",
+      "name": "Letra decorativa 3D con nombre y figuras",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/letra-figuras-3d-1.jpeg",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/letra-figuras-3d-2.png",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/letra-dante-clean.png"
+      ],
+      "description": "Letra con nombre y figuras decorativas: ositos, nubes, estrellas u otros detalles según tu idea. Cada diseño se prepara por encargo.",
+      "includes": "Una letra con nombre y figuras según el diseño confirmado.",
+      "category": "hogar",
+      "unit": "pieza",
+      "price": 1700,
+      "material": "por-confirmar",
+      "tones": "Material y colores por confirmar",
+      "colors": "",
+      "deleted": false,
+      "availableColorIds": []
+    },
+    {
+      "id": "letra-nombre-3d",
+      "name": "Letra decorativa 3D con nombre",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/letra-nombre-3d-1.jpeg"
+      ],
+      "description": "Letra decorativa con el nombre que elijas. Una opción sencilla para personalizar habitaciones, mesas de celebración o regalos.",
+      "includes": "Una letra decorativa con nombre.",
+      "category": "hogar",
+      "unit": "pieza",
+      "price": 1100,
+      "material": "por-confirmar",
+      "tones": "Material y colores por confirmar",
+      "colors": "",
+      "deleted": false,
+      "availableColorIds": []
+    },
+    {
+      "id": "organizador-escurridor",
+      "name": "Organizador escurridor para fregadero",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/organizador-escurridor-clean.png?v=catalog-nuevos-23"
+      ],
+      "description": "Organizador con cesta y bandeja de drenaje para mantener a mano los accesorios de limpieza junto al fregadero. Material, tamaño y colores se confirman al pedir.",
+      "includes": "Organizador y bandeja. Jabón y esponjas no incluidos.",
+      "category": "hogar",
+      "unit": "pieza",
+      "price": null,
+      "material": "por-confirmar",
+      "tones": "Material y colores por confirmar",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "libreta-individual",
+      "name": "Libreta personalizada en resina",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/libreta-individual-clean.jpg?v=catalog-nuevos-23"
+      ],
+      "price": 1500,
+      "category": "libretas",
+      "description": "Libreta personalizada en resina. El precio incluye únicamente la libreta de la foto. Colores y diseño a elegir. Diseños especiales con más decoración o materiales pueden variar.",
+      "includes": "Una libreta personalizada. Accesorios se venden por separado.",
+      "unit": "pieza",
+      "material": "resina",
+      "tones": "Colores y diseño por confirmar",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "lapicero-resina",
+      "name": "Lapicero personalizado en resina",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/lapicero-individual-clean.jpg?v=catalog-nuevos-23"
+      ],
+      "price": 500,
+      "category": "accesorios",
+      "description": "Lapicero personalizado en resina. El precio incluye únicamente el lapicero de la foto. Colores y diseño a elegir. Diseños especiales con más decoración o materiales pueden variar.",
+      "includes": "Un lapicero personalizado.",
+      "unit": "pieza",
+      "material": "resina",
+      "tones": "Colores y diseño por confirmar",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "separador-resina",
+      "name": "Separador de hojas personalizado",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/separador-individual-clean.jpg?v=catalog-nuevos-23"
+      ],
+      "price": 500,
+      "category": "accesorios",
+      "description": "Separador personalizado en resina. El precio incluye únicamente el separador de la foto. Colores y diseño a elegir. Diseños especiales con más decoración o materiales pueden variar.",
+      "includes": "Un separador de hojas.",
+      "unit": "pieza",
+      "material": "resina",
+      "tones": "Colores y diseño por confirmar",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "casita-hada-navidad",
+      "name": "Casita de hada navideña 3D",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/casita-hada-navidad.png?v=catalog-nuevos-23"
+      ],
+      "price": 500,
+      "category": "navidad",
+      "description": "Adorno de casita con forma de arbolito para colgar. Colores, tamaño y opciones de iluminación se confirman al pedir.",
+      "includes": "Un adorno. Iluminación por confirmar.",
+      "unit": "pieza",
+      "material": "por-confirmar",
+      "tones": "Colores y diseño por confirmar",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "jarron-moderno-20cm",
+      "name": "Jarrón moderno estriado 3D · 20 cm",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/jarron-moderno-20cm.png?v=catalog-nuevos-23"
+      ],
+      "price": 1200,
+      "category": "hogar",
+      "description": "Jarrón decorativo de textura estriada y forma curvada. Modelo de referencia de aproximadamente 20 cm de alto y 15.6 cm de ancho. Material y colores se confirman al pedir.",
+      "includes": "Un jarrón. Flores no incluidas.",
+      "unit": "pieza",
+      "material": "por-confirmar",
+      "tones": "Colores y diseño por confirmar",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "calabaza-halloween",
+      "name": "Calabaza decorativa de Halloween 3D",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/calabaza-halloween.png?v=catalog-nuevos-23"
+      ],
+      "price": 1000,
+      "category": "hogar",
+      "description": "Recipiente decorativo con cara de calabaza para Halloween. Tamaño, material y colores se confirman al pedir.",
+      "includes": "Una calabaza decorativa.",
+      "unit": "pieza",
+      "material": "por-confirmar",
+      "tones": "Colores y diseño por confirmar",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "lazos-sorbete-3d",
+      "name": "Lazos decorativos para sorbetes 3D",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/lazos-sorbete.jpg?v=catalog-nuevos-23"
+      ],
+      "category": "vasos",
+      "description": "Seis modelos de lazos para decorar tu sorbete, disponibles al por mayor y al detalle. Elige el modelo que te gusta y consulta colores y precio por WhatsApp. Tapita se cotiza por separado.",
+      "includes": "Un lazo decorativo. Vaso, sorbete y tapita no incluidos.",
+      "price": null,
+      "unit": "pieza",
+      "material": "por-confirmar",
+      "tones": "Colores personalizables",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "tapitas-sorbete-mayor",
+      "name": "Tapitas para sorbetes · paquete de 15",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/tapitas-sorbete.jpg?v=catalog-nuevos-23"
+      ],
+      "category": "vasos",
+      "description": "Paquete de 15 tapitas para sorbetes por RD$500, precio al por mayor. Consulta colores, medidas y compatibilidad con tu sorbete al pedir.",
+      "includes": "15 tapitas. Vasos y sorbetes no incluidos.",
+      "price": 500,
+      "unit": "juego",
+      "material": "por-confirmar",
+      "tones": "Colores personalizables",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "soporte-audifonos-flores",
+      "name": "Soporte para audífonos con flores 3D",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/soporte-flores.jpg?v=catalog-nuevos-23"
+      ],
+      "category": "hogar",
+      "description": "Soporte decorativo para organizar tus audífonos, con diseño de flores. Tamaño, material y colores se confirman al personalizar tu pedido.",
+      "includes": "Un soporte con flores decorativas. Audífonos y accesorios de la escena no incluidos.",
+      "price": null,
+      "unit": "pieza",
+      "material": "por-confirmar",
+      "tones": "Colores personalizables",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "soporte-audifonos-deadpool",
+      "name": "Soporte para audífonos estilo Deadpool 3D",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/soporte-deadpool-frente.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/soporte-deadpool-lado.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/soporte-deadpool-lado-2.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/soporte-deadpool-audifonos.jpg?v=catalog-nuevos-23",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/soporte-deadpool-referencia.jpg?v=catalog-nuevos-23"
+      ],
+      "category": "hogar",
+      "description": "Soporte decorativo con forma de busto y base abierta para colocar tus audífonos. Las fotos muestran distintas vistas del mismo modelo. Tamaño, material y colores se confirman al pedir.",
+      "includes": "Un soporte. Audífonos no incluidos.",
+      "price": null,
+      "unit": "pieza",
+      "material": "por-confirmar",
+      "tones": "Negro con ojos blancos",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "recipiente-spiderman-3d",
+      "name": "Recipiente decorativo estilo Spider-Man 3D",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/recipiente-spiderman.jpg?v=catalog-nuevos-23"
+      ],
+      "category": "hogar",
+      "description": "Recipiente decorativo con diseño de máscara y telarañas. Tamaño, material y colores se confirman al pedir.",
+      "includes": "Un recipiente decorativo. Palomitas y accesorios no incluidos.",
+      "price": null,
+      "unit": "pieza",
+      "material": "por-confirmar",
+      "tones": "Rojo, negro y blanco",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "recipiente-muneco-nieve",
+      "name": "Recipiente decorativo de muñeco de nieve 3D",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/recipiente-nieve.jpg?v=catalog-nuevos-23"
+      ],
+      "category": "navidad",
+      "description": "Recipiente decorativo navideño con carita de muñeco de nieve y bufanda. Consulta tamaño, material y colores para personalizar tu pedido.",
+      "includes": "Un recipiente decorativo. Galletas, dulces y accesorios no incluidos.",
+      "price": null,
+      "unit": "pieza",
+      "material": "por-confirmar",
+      "tones": "Blanco, rojo, negro y naranja",
+      "colors": "",
+      "availableColorIds": null
+    },
+    {
+      "id": "greca-miniatura",
+      "name": "Greca miniatura para llavero o decoración",
+      "images": [
+        "https://isacreationsrd.netlify.app/catalogo/greca-miniatura-llaveros.jpg",
+        "https://isacreationsrd.netlify.app/catalogo/greca-miniatura-amarilla.jpg",
+        "https://isacreationsrd.netlify.app/catalogo/greca-miniatura-rd.jpg"
+      ],
+      "description": "Un detalle para amantes del café. Pequeña greca decorativa impresa en 3D, para llavero o para complementar una tapa de vaso personalizada, según el montaje elegido. Las fotos muestran diferentes versiones y colores. Es una miniatura decorativa; no prepara café.",
+      "tones": "Rojo, gris, amarillo y combinación rojo, blanco y azul",
+      "price": null,
+      "unit": "pieza",
+      "category": "llaveros3d",
+      "material": "por-confirmar",
+      "colors": "Colores y tamaño a coordinar por encargo.",
+      "includes": "Una pieza; montaje y colores a coordinar.",
+      "inquiryLabel": "Consultar precio",
+      "availableColorIds": null
+    },
+    {
+      "id": "mini-tambora-dominicana",
+      "name": "Mini tambora dominicana 3D",
+      "images": [
+        "https://isacreationsrd.netlify.app/catalogo/mini-tambora-dominicana.jpg"
+      ],
+      "description": "Miniatura decorativa en rojo, blanco y azul, con detalles inspirados en la tambora dominicana. Para recuerdos, llaveros y decoraciones de tapas de vasos, según el montaje elegido. Pieza decorativa; no es un instrumento musical.",
+      "tones": "Rojo, blanco, azul y marrón",
+      "price": null,
+      "unit": "pieza",
+      "category": "llaveros3d",
+      "material": "por-confirmar",
+      "colors": "Colores y tamaño a coordinar por encargo.",
+      "includes": "Una pieza; montaje y colores a coordinar.",
+      "inquiryLabel": "Consultar precio",
+      "availableColorIds": null
+    },
+    {
+      "id": "mapa-rd-miniatura",
+      "name": "Mapa de RD en miniatura",
+      "images": [
+        "https://isacreationsrd.netlify.app/catalogo/mapa-rd-miniatura.jpg"
+      ],
+      "description": "Pequeño mapa de la República Dominicana con los colores de nuestra bandera y las letras RD. Un detalle para llevar en tus llaves o incorporar a una tapa de vaso personalizada. Coordinamos contigo el tamaño y el montaje.",
+      "tones": "Rojo, blanco y azul",
+      "price": null,
+      "unit": "pieza",
+      "category": "llaveros3d",
+      "material": "por-confirmar",
+      "colors": "Colores y tamaño a coordinar por encargo.",
+      "includes": "Una pieza; montaje y colores a coordinar.",
+      "inquiryLabel": "Consultar precio",
+      "availableColorIds": null
+    },
+    {
+      "id": "aretes-bandera-rd",
+      "name": "Aretes de bandera dominicana 3D",
+      "images": [
+        "https://isacreationsrd.netlify.app/catalogo/aretes-bandera-rd.jpg"
+      ],
+      "description": "Par de aretes pequeños con diseño cuadrado en rojo, blanco y azul y ganchos metálicos. Un detalle inspirado en los colores dominicanos para complementar tu estilo.",
+      "tones": "Rojo, blanco y azul",
+      "price": null,
+      "unit": "pieza",
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "colors": "Colores y tamaño a coordinar por encargo.",
+      "includes": "Un par de aretes con ganchos metálicos.",
+      "inquiryLabel": "Consultar precio",
+      "availableColorIds": null
+    },
+    {
+      "id": "aretes-mapa-rd",
+      "name": "Aretes de mapa de RD 3D",
+      "images": [
+        "https://isacreationsrd.netlify.app/catalogo/aretes-mapa-rd.jpg"
+      ],
+      "description": "Par de aretes pequeños con la silueta de la República Dominicana, borde blanco y detalles rojos y azules en relieve. Incluyen ganchos metálicos, como se muestra en la imagen.",
+      "tones": "Rojo, blanco y azul",
+      "price": null,
+      "unit": "pieza",
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "colors": "Colores y tamaño a coordinar por encargo.",
+      "includes": "Un par de aretes con ganchos metálicos.",
+      "inquiryLabel": "Consultar precio",
+      "availableColorIds": null
+    },
+    {
+      "id": "llavero",
+      "name": "Llavero personalizado",
+      "price": null,
+      "category": "llaveros",
+      "images": [],
+      "description": "Llavero personalizado con nombre o inicial.",
+      "material": "resina",
+      "unit": "pieza",
+      "colors": "",
+      "includes": "",
+      "tones": "",
+      "availableColorIds": null
+    }
+  ]
+}
