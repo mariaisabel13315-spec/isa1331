@@ -1020,6 +1020,160 @@
       "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
       "availableColorIds": [],
       "deleted": false
+    },
+    {
+      "id": "heladito-miniatura-3d",
+      "name": "Heladito en cono en miniatura 3D",
+      "images": [
+        "/catalogo/heladito-miniatura-clean.png"
+      ],
+      "description": "Mini heladito con forma de crema en espiral y cono con textura. Para decorar tapas de vasos, recuerdos y proyectos creativos. Tamaño, color y cantidad se coordinan al pedir. Pieza decorativa, no comestible.",
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "tones": "",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "cerdito-miniatura-3d",
+      "name": "Cerdito en miniatura 3D",
+      "images": [
+        "/catalogo/cerdito-miniatura-clean.png"
+      ],
+      "description": "Pequeño cerdito con hocico, orejitas y patitas en relieve. Un detalle decorativo para tapas de vasos, recuerdos y creaciones personalizadas. Tamaño, color y cantidad se coordinan al pedir.",
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "tones": "",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "conejito-acostado-miniatura-3d",
+      "name": "Conejito acostado en miniatura 3D",
+      "images": [
+        "/catalogo/conejito-miniatura-clean.png"
+      ],
+      "description": "Conejito acostado con orejas levantadas y detalles en rosa. Ideal como figura decorativa para recuerdos, tapas de vasos y proyectos personalizados. Tamaño, color y cantidad se coordinan al pedir.",
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "tones": "",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "ositos-miniatura-3d",
+      "name": "Ositos decorativos en miniatura 3D",
+      "images": [
+        "/catalogo/ositos-miniatura-clean.png",
+        "/catalogo/osito-marron-miniatura-clean.png"
+      ],
+      "description": "Ositos sentados con orejitas redondas y detalles en relieve. Las fotos muestran opciones de modelos y colores, incluyendo marrón, rosa, azul y rojo. Para recuerdos y decoraciones personalizadas. Tamaño, color y cantidad se coordinan al pedir.",
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "tones": "",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "helados-surtidos-miniatura-3d",
+      "name": "Mini helados y paletas decorativos 3D",
+      "images": [
+        "/catalogo/helados-surtidos-miniatura-clean.png"
+      ],
+      "description": "Variedad de mini helados en cono y paletas con distintos diseños y colores. Ideales para decorar tapas de vasos y crear recuerdos con temática de dulces. La foto muestra modelos de referencia; puedes cotizar las piezas que prefieras. Tamaño, color y cantidad se coordinan al pedir. Pieza decorativa, no comestible.",
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "tones": "",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "guineo-miniatura-3d",
+      "name": "Guineo en miniatura 3D",
+      "images": [
+        "/catalogo/guineo-miniatura-clean.png"
+      ],
+      "description": "Mini guineo amarillo con forma curva y detalles en los extremos. Un complemento decorativo para tapas de vasos, recuerdos y proyectos con temática de frutas. Tamaño, color y cantidad se coordinan al pedir. Pieza decorativa, no comestible.",
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "tones": "",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "huevo-frito-miniatura-3d",
+      "name": "Huevito frito en miniatura 3D",
+      "images": [
+        "/catalogo/huevo-miniatura-clean.png"
+      ],
+      "description": "Mini huevito decorativo con base blanca y yema amarilla en relieve. Para complementar tapas de vasos, recuerdos y creaciones con temática de comida. Tamaño, color y cantidad se coordinan al pedir. Pieza decorativa, no comestible.",
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "tones": "",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "mapache-miniatura-3d",
+      "name": "Mapache en miniatura 3D",
+      "images": [
+        "/catalogo/mapache-miniatura-clean.png"
+      ],
+      "description": "Pequeño mapache sentado con orejitas, rostro en relieve y cola con segmentos. Un detalle para recuerdos y decoraciones personalizadas. La foto muestra una referencia en negro. Tamaño, color y cantidad se coordinan al pedir.",
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "tones": "",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "sandia-miniatura-3d",
+      "name": "Rebanada de sandía en miniatura 3D",
+      "images": [
+        "/catalogo/sandia-miniatura-clean.png"
+      ],
+      "description": "Mini rebanada de sandía con borde y semillas en relieve. Para decorar tapas de vasos, recuerdos y proyectos con temática de frutas. La foto muestra un modelo en rojo. Tamaño, color y cantidad se coordinan al pedir. Pieza decorativa, no comestible.",
+      "price": null,
+      "category": "accesorios",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "tones": "",
+      "colors": "Colores y tamaño se coordinan al hacer el pedido.",
+      "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
+      "availableColorIds": [],
+      "deleted": false
     }
   ]
 }
