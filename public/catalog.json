@@ -1176,6 +1176,83 @@
       "includes": "Cantidad según cotización. Accesorios de montaje no incluidos.",
       "availableColorIds": [],
       "deleted": false
+    },
+    {
+      "id": "macetas-rostros-manos-3d",
+      "name": "Macetas decorativas de rostros y manos 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_d492534e18f6430b8535fd1c9717c209~mv2.jpeg"
+      ],
+      "category": "hogar",
+      "description": "Macetas decorativas con rostros y manos en tres modelos: manos junto al rostro, cubriendo la boca y cubriendo los ojos. Las fotos muestran las distintas opciones en blanco. Plantas no incluidas; tamaño y modelo se coordinan por encargo.",
+      "tones": "Blanco",
+      "includes": "Una maceta del modelo elegido. Plantas no incluidas.",
+      "price": null,
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "Tamaño, color y cantidad se coordinan al hacer el pedido.",
+      "inquiryLabel": "Consultar precio",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "renito-sentado-bufanda-3d",
+      "name": "Renito sentado con bufanda 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_b4a788aefec446118498f676f3bf58cf~mv2.jpeg"
+      ],
+      "category": "navidad",
+      "description": "Reno decorativo sentado con astas, ojos cerrados, bufanda y textura de líneas. La foto muestra una versión en tono crema. Consulta tamaño y color para preparar tu pedido.",
+      "tones": "Crema",
+      "includes": "Un renito decorativo.",
+      "price": null,
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "Tamaño, color y cantidad se coordinan al hacer el pedido.",
+      "inquiryLabel": "Consultar precio",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "renos-acanalados-3d",
+      "name": "Renos decorativos acanalados 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_563e5272f32d41c0b113e76fcbffd469~mv2.jpeg",
+        "https://static.wixstatic.com/media/21b7ea_4ac47372ca6646dbaba5ffbf5f38c0db~mv2.jpeg",
+        "https://static.wixstatic.com/media/21b7ea_aa1f01c390e14c47acaa4b75a425f6d0~mv2.jpeg"
+      ],
+      "category": "navidad",
+      "description": "Renos decorativos de cuerpo alargado, astas y textura acanalada, mostrados en verde, beige y rojo. Disponibles en tres tamaños, por encargo. La foto de la mesita muestra el mismo diseño en una composición decorativa para apreciar su tamaño; los otros objetos no están incluidos.",
+      "tones": "Verde, beige y rojo",
+      "includes": "Un reno del tamaño elegido. Los objetos de la mesita no están incluidos.",
+      "price": null,
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "Tamaño, color y cantidad se coordinan al hacer el pedido.",
+      "inquiryLabel": "Consultar precio",
+      "availableColorIds": [],
+      "deleted": false
+    },
+    {
+      "id": "mario-sentado-miniatura-3d",
+      "name": "Mario sentado en miniatura 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_4e66608ea53643dcafb180b76f288311~mv2.jpeg",
+        "https://static.wixstatic.com/media/21b7ea_f322df790370422b98ff418a61bd6cc6~mv2.jpeg",
+        "https://static.wixstatic.com/media/21b7ea_180f43356bf047dc97426f5f55988676~mv2.jpeg",
+        "https://static.wixstatic.com/media/21b7ea_22e0fe5a33df4da695a30c128bc93afa~mv2.jpeg"
+      ],
+      "category": "llaveros3d",
+      "description": "Figura de Mario sentado con gorra roja, bigote, overol azul y zapatos rojos. Las fotos muestran distintas vistas y ejemplos de piezas en conjunto. Se puede cotizar como figura o con montaje para llavero; tamaño, cantidad y acabado se coordinan al pedir.",
+      "tones": "Rojo, azul, blanco y marrón",
+      "includes": "Una figura. Montaje para llavero según cotización.",
+      "price": null,
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "colors": "Tamaño, color y cantidad se coordinan al hacer el pedido.",
+      "inquiryLabel": "Consultar precio",
+      "availableColorIds": [],
+      "deleted": false
     }
   ]
 }
