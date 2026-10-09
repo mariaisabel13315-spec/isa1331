@@ -1253,6 +1253,27 @@
       "inquiryLabel": "Consultar precio",
       "availableColorIds": [],
       "deleted": false
+    },
+    {
+      "id": "maceta-pared-rostro-silencio",
+      "name": "Maceta de pared con rostro Silencio",
+      "price": 1300,
+      "category": "hogar",
+      "description": "Maceta decorativa de pared con rostro y dedo frente a los labios. Las fotos muestran referencias en blanco y negro, con distintas plantas. Consulta el color y las medidas al realizar tu pedido.",
+      "images": [
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/maceta-pared-rostro-silencio-1.jpeg",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/maceta-pared-rostro-silencio-2.jpeg",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/maceta-pared-rostro-silencio-3.jpeg",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/maceta-pared-rostro-silencio-4.png",
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/maceta-pared-rostro-silencio-5.png"
+      ],
+      "tones": "Blanco y negro",
+      "material": "por-confirmar",
+      "unit": "pieza",
+      "includes": "Una maceta. Plantas de referencia; confirmar si están incluidas al hacer el pedido.",
+      "colors": "Color a coordinar al hacer el pedido.",
+      "deleted": false,
+      "availableColorIds": []
     }
   ]
 }
