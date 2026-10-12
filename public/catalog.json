@@ -490,7 +490,8 @@
       "id": "llavero-gatito-3d",
       "name": "Llavero articulado de gatito 3D",
       "images": [
-        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-gatito-3d-1.jpeg?v=catalog-nuevos-23"
+        "https://isa-creaciones-rd.mariaisabel13315.chatgpt.site/catalogo/llavero-gatito-3d-1.jpeg?v=catalog-nuevos-23",
+        "https://static.wixstatic.com/media/21b7ea_d036b76d52bd43bbabd1ba3aa122c536~mv2.jpeg"
       ],
       "description": "Gatito articulado para llevar en tus llaves. Personaliza la combinación de colores; las fotos muestran ejemplos del modelo.",
       "includes": "Un gatito articulado con argolla para llavero.",
@@ -1274,6 +1275,296 @@
       "colors": "Color a coordinar al hacer el pedido.",
       "deleted": false,
       "availableColorIds": []
+    },
+    {
+      "id": "llavero-honda-rojo-3d",
+      "name": "Llavero Honda rojo y negro 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_64349de10db74868949257ad556d31a6~mv2.jpeg",
+        "https://static.wixstatic.com/media/21b7ea_a3a4c13f84ea4cadb4d75a58da690fea~mv2.jpeg"
+      ],
+      "description": "Llavero Honda rojo y negro 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": 300,
+      "material": "por-confirmar",
+      "tones": "Rojo y negro",
+      "colors": ""
+    },
+    {
+      "id": "llavero-honda-blanco-3d",
+      "name": "Llavero Honda blanco y negro 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_a3ddaba9271d4aeeba6c0cf25c4df88d~mv2.jpeg",
+        "https://static.wixstatic.com/media/21b7ea_c0ac5020d0304a548e95fd63f6072acc~mv2.jpeg",
+        "https://static.wixstatic.com/media/21b7ea_73a21298e4cc402aa168b98f0577dd8c~mv2.jpeg"
+      ],
+      "description": "Llavero Honda blanco y negro 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": 300,
+      "material": "por-confirmar",
+      "tones": "Blanco y negro",
+      "colors": ""
+    },
+    {
+      "id": "llavero-honda-azul-3d",
+      "name": "Llavero Honda en tonos azules 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_3ef99f8d2a9e4ab3a120436db6a86804~mv2.jpeg",
+        "https://static.wixstatic.com/media/21b7ea_7327e98e09854d4b9aadc37a51242a7a~mv2.jpeg"
+      ],
+      "description": "Llavero Honda en tonos azules 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": 300,
+      "material": "por-confirmar",
+      "tones": "Azul, blanco y negro",
+      "colors": ""
+    },
+    {
+      "id": "llavero-honda-colores-3d",
+      "name": "Llavero Honda en diferentes colores 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_97ddd7787c55475ca52cb24742ddf4e3~mv2.jpeg"
+      ],
+      "description": "Llavero Honda en diferentes colores 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": 300,
+      "material": "por-confirmar",
+      "tones": "Rojo, azul, blanco y negro",
+      "colors": ""
+    },
+    {
+      "id": "llavero-ford-3d",
+      "name": "Llavero Ford 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_337ccbd320714e15bd259334e64a9580~mv2.jpeg"
+      ],
+      "description": "Llavero Ford 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": 300,
+      "material": "por-confirmar",
+      "tones": "Blanco y negro",
+      "colors": ""
+    },
+    {
+      "id": "llavero-jeep-3d",
+      "name": "Llavero Jeep 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_e3e59364c36745499fea75cef03ade3e~mv2.jpeg"
+      ],
+      "description": "Llavero Jeep 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": 300,
+      "material": "por-confirmar",
+      "tones": "Blanco y negro",
+      "colors": ""
+    },
+    {
+      "id": "llavero-toyota-3d",
+      "name": "Llavero Toyota 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_d728c80eee9943989df4c8275191f7a4~mv2.jpeg"
+      ],
+      "description": "Llavero Toyota 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": 300,
+      "material": "por-confirmar",
+      "tones": "Blanco y negro",
+      "colors": ""
+    },
+    {
+      "id": "llavero-audi-3d",
+      "name": "Llavero Audi 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_a93aaa999beb48f0b0dc2fac5f55fd46~mv2.jpeg"
+      ],
+      "description": "Llavero Audi 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": 300,
+      "material": "por-confirmar",
+      "tones": "Blanco y negro",
+      "colors": ""
+    },
+    {
+      "id": "llavero-mercedes-benz-3d",
+      "name": "Llavero Mercedes-Benz 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_c027d0b067284609adbad6ce11045a67~mv2.jpeg"
+      ],
+      "description": "Llavero Mercedes-Benz 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": 300,
+      "material": "por-confirmar",
+      "tones": "Blanco y negro",
+      "colors": ""
+    },
+    {
+      "id": "llavero-oruguita-articulada-3d",
+      "name": "Llavero de oruguita articulada 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_a1e5197fa7724b92b32d1b07dda8c8fd~mv2.jpeg"
+      ],
+      "description": "Llavero de oruguita articulada 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": null,
+      "material": "por-confirmar",
+      "tones": "Verde, amarillo, naranja y rosado",
+      "colors": ""
+    },
+    {
+      "id": "llavero-caritas-emoji-3d",
+      "name": "Llaveros de emojis amarillos 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_0ab3e514604149749fc81bfb11920df2~mv2.jpeg"
+      ],
+      "description": "Llaveros de emojis amarillos 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": null,
+      "material": "por-confirmar",
+      "tones": "Amarillo con diferentes expresiones",
+      "colors": ""
+    },
+    {
+      "id": "llavero-pulpo-articulado-3d",
+      "name": "Llavero de pulpo articulado 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_daa6e082f54d4675b17d249fe8f8cca0~mv2.jpeg"
+      ],
+      "description": "Llavero de pulpo articulado 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": null,
+      "material": "por-confirmar",
+      "tones": "Diferentes colores",
+      "colors": ""
+    },
+    {
+      "id": "llavero-esqueleto-articulado-3d",
+      "name": "Llavero de esqueleto articulado 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_3e35fd1eed704f2a8b35ae9d3b6e62b9~mv2.jpeg"
+      ],
+      "description": "Llavero de esqueleto articulado 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": null,
+      "material": "por-confirmar",
+      "tones": "Beige, rosado y blanco",
+      "colors": ""
+    },
+    {
+      "id": "llavero-dragon-articulado-3d",
+      "name": "Llavero de dragón articulado 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_7f6dde29c7cb4351834451a36d17a108~mv2.jpeg"
+      ],
+      "description": "Llavero de dragón articulado 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": null,
+      "material": "por-confirmar",
+      "tones": "Blanco con detalles celestes",
+      "colors": ""
+    },
+    {
+      "id": "llavero-perrito-salchicha-3d",
+      "name": "Llavero de perrito salchicha articulado 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_d0c7f2ff4e0947fca3173fd82cebd940~mv2.jpeg"
+      ],
+      "description": "Llavero de perrito salchicha articulado 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": null,
+      "material": "por-confirmar",
+      "tones": "Blanco y naranja",
+      "colors": ""
+    },
+    {
+      "id": "llavero-huellita-3d",
+      "name": "Llavero de huellita de mascota 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_01865704894f4c0bb3c7fa40a66915c9~mv2.jpeg",
+        "https://static.wixstatic.com/media/21b7ea_702b1a2c314245d6b66a6cb2748d79cc~mv2.jpeg"
+      ],
+      "description": "Llavero de huellita de mascota 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": null,
+      "material": "por-confirmar",
+      "tones": "Blanco, negro y multicolor",
+      "colors": ""
+    },
+    {
+      "id": "llavero-caritas-azules-3d",
+      "name": "Llaveros de caritas azules 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_cbcba41f3f3b47f39dd1beb8504f762f~mv2.jpeg"
+      ],
+      "description": "Llaveros de caritas azules 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": null,
+      "material": "por-confirmar",
+      "tones": "Azul con diferentes expresiones",
+      "colors": ""
+    },
+    {
+      "id": "llavero-margarita-3d",
+      "name": "Llavero de margarita 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_a3782f954b1b493fbbd52e6781d12c77~mv2.jpeg"
+      ],
+      "description": "Llavero de margarita 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": null,
+      "material": "por-confirmar",
+      "tones": "Blanco y amarillo",
+      "colors": ""
+    },
+    {
+      "id": "llavero-perrito-blanco-articulado-3d",
+      "name": "Llavero de perrito blanco articulado 3D",
+      "images": [
+        "https://static.wixstatic.com/media/21b7ea_e98d9b61e9a446a3a89092da9dbd2c05~mv2.jpeg"
+      ],
+      "description": "Llavero de perrito blanco articulado 3D. Venta al por mayor y al detalle. Consulta colores y cantidades por WhatsApp.",
+      "includes": "Un llavero con argolla y cadena. Las fotos muestran opciones de diseño.",
+      "category": "llaveros3d",
+      "unit": "pieza",
+      "price": null,
+      "material": "por-confirmar",
+      "tones": "Blanco con detalles rosados y negros",
+      "colors": ""
     }
   ]
 }
